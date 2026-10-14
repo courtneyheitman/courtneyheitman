@@ -1,6 +1,5 @@
 👋 Hi, I’m @courtneyheitman  
-👀 I’m interested in A11y, HTML and CSS.  
-🌱 I’m currently re-learning Git and other development practices.    
+👀 I’m interested in A11y, HTML and CSS.   
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/courtney-heitman-89540231/) is probably easiest.  
 
 <!---
